@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second year PhD student at the University of Southern California advised by Professor Nora Ayanian. My research focuses on coordination in multi-agent and multi-robot systems. My primary research studies how we can learn from the ways that humans coordinate, to design better controllers for coordinating robots. I also research machine learning for optimization within multi-agent systems.
 
-Research Projects
+Current Research Projects
 =====
 #### Human-Coordination Inspired Robotics
 
@@ -18,7 +18,4 @@ We have collected data from a large number of people playing a single shape form
 
 #### Learning for Multi Agent Path Finding
 
-
-
-#### End-to-End Learning on Graph Optimization Problems
-#### Stackelberg Security Games
+Multi Agent path finding (MAPF) is the task of finding paths for a number of agents through an (typically discrete) environment that do not collide. This problem is of particular importance for warehouse robotics, where a large number of agents are operating within a confined space. We are attempting to use deep learning to speed up the solving time of some common algorithms for MAPF.
