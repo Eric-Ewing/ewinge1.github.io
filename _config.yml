@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eric Ewing"
-  avatar           : "profile-pic.png"
+  avatar           : "profile-pic.jpeg"
   bio              : "PhD student at the University of Southern California studying coordination in multi-robot systems and machine learning for optimization"
   location         : "Los Angeles, California"
   employer         :
