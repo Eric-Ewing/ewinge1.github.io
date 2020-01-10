@@ -3,7 +3,7 @@ title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/Decision-Focused-Learning
 excerpt: 
-date: 2020
+date: 2020-01-20
 venue: 'AAAI 2020'
 paperurl: 'https://arxiv.org/abs/1903.00958'
 citation: 'Perrault, A., Wilder, B., Ewing, E., Mate, A., Dilkina, B., & Tambe, M. (2019). Decision-Focused Learning of Adversary Behavior in Security Games. AAAI2020'
