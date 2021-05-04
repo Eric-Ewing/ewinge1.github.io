@@ -2,7 +2,7 @@
 title: "USC Summer Undergraduate Research Experience (SURE)"
 collection: teaching
 type: "Undergraduate Mentoring"
-permalink: /teaching/SURE.md
+permalink: /teaching/SURE
 venue: USC
 date: Summer 2020
 location: "Los Angeles, California"
