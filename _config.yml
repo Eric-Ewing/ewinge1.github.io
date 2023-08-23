@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Eric Ewing"
 title_separator          : "-"
 name                     : &name "Eric Ewing"
-description              : &description "PhD student at the University of Southern California studying coordination in multi-robot systems and machine learning for optimization"
+description              : &description "PhD student at the Brown University studying coordination in multi-robot systems, robotics education, and machine learning in optimization."
 url                      : https://ewinge1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ewinge1/ewinge1.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Eric Ewing"
   avatar           : "profile-pic.jpeg"
-  bio              : "PhD student at Brown University coordination in multi-robot systems and machine learning for optimization"
+  bio              : "PhD student at the Brown University studying coordination in multi-robot systems, robotics education, and machine learning in optimization."
   location         : "Providence, Rhode Island"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=_z3bU2EAAAAJ&hl=en"
