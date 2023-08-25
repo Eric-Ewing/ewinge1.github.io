@@ -1,7 +1,7 @@
 ---
 title: "Mentoring high school students with the SHINE program"
 collection: teaching
-type: "High School Mentoring
+type: "High School Mentoring"
 permalink: /teaching/SHINE
 venue: SHINE at USC
 date: Summer 2020, 2021

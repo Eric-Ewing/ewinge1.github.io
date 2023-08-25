@@ -2,7 +2,7 @@
 title: "Taking Arts to the Skies"
 collection: teaching
 type: "High School Teaching"
-permalink: /teaching/SummerAtBrown
+permalink: /_teaching/SummerAtBrown
 venue: Brown University
 date: Summer, 2023
 location: "Providence, Rhode Island"
