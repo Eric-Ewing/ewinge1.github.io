@@ -15,8 +15,10 @@ The result of these efforts was the Summer@Brown course "Taking Art to the Skies
 
 If you use Crazyswarm2 and want to make it more accessible or have questions about the course, please reach out to me. I'm always happy to help make Crazyswarm or other robot platforms more accessible in an education setting.
 
-The syllabus for the class can be found here.
+Course page can be found [here](https://catalog.precollege.brown.edu/detail/CECS0932).
 
-Labs and Starter code can be found here.
+The syllabus for the class can be found [here](./files/art_skies_syllabus.pdf).
 
-Some of the final projects can be found on this youtube playlist. (Only projects without identifiable information of minors are available to the public.)
+Labs and Starter code can be found [here](https://github.com/ewinge1/TakingArtToTheSkies).
+
+Some of the final projects can be found on this (youtube playlist)[https://youtube.com/playlist?list=PLMeIXpeMBnRzbd7sbUBqIEipGuuS6xjX0&feature=shared]. (Only projects without identifiable information of minors are available to the public.)
