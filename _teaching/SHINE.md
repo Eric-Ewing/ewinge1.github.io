@@ -4,7 +4,7 @@ collection: teaching
 type: "High School Mentoring"
 permalink: /teaching/SHINE
 venue: SHINE at USC
-date: Summer 2020, 2021
+# date: Summer 2020, 2021
 location: "Los Angeles, California"
 ---
 I mentored two High School Students in the Summer High school Intensive Next generation Engineering (SHINE) program.

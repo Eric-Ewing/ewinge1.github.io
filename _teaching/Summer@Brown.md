@@ -4,7 +4,7 @@ collection: teaching
 type: "High School Teaching"
 permalink: /_teaching/SummerAtBrown
 venue: Brown University
-date: Summer, 2023
+# date: Summer, 2023
 location: "Providence, Rhode Island"
 ---
 TODO Find Link to class, link to the syllabus, link to results and youtube, post starter code.
