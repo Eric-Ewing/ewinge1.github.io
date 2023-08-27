@@ -3,10 +3,8 @@ title: "Mentoring high school students with the SHINE program"
 collection: teaching
 type: "High School Mentoring"
 permalink: /teaching/SHINE
-venue: SHINE at USC
+venue: "SHINE at USC"
 # date: Summer 2020, 2021
 location: "Los Angeles, California"
 ---
-I mentored two High School Students in the Summer High school Intensive Next generation Engineering (SHINE) program.
-We worked on a multi-agent reinforcement learning (RL) approach to the multi-agent path finding problem (MAPF). 
-The students and I covered an overview of the math required for deep RL for approximately 3 weeks, then created a MAPF environment and trained models to complete the problem for the remaining four weeks. In addition to learning about RL, students also learned how to conduct research, including how to read papers, how to ask scientific questions, and how to present meaningful results.
+I worked with the Summer High School Intensive Next generation Engineering (SHINE) program at USC for two years. The program takes high school students and matches them with PhD student mentors, who guide them in research projects. I mentored 3 students over the two years on MAPF related projects, including looking for reinforcement learning based solutions to MAPF. We covered a wide range of mathematical concepts required to understand and implement RL-based algorithms and then they implemented their own algorithms, trained agents, and assessed performance. In addition to learning about robotics, AI, and ML, students also learned how to conduct research, including how to read papers, how to ask scientific questions, and how to present meaningful results.
