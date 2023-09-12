@@ -4,7 +4,6 @@ title: "Teaching"
 excerpt: "Teaching"
 author_profile: true
 redirect_from: 
-  - /teaching/
   - /teaching.html
 ---
 Taking Art to the Skies: Summer@Brown Course
