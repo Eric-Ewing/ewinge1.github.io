@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Teaching"
+excerpt: "Teaching"
+author_profile: true
+redirect_from: 
+  - /teaching/
+  - /teaching.html
+---
 Taking Art to the Skies: Summer@Brown Course
 ============================================
 Throughout the Spring of 2023, I worked to develop a class to make multi-robot systems and drones more appealing and accessible to a wider audience. I wanted to take Crazyswarm(2), an active platform for research still very much in development, and make it stable and robust enough to be used in a classroom setting, where dependency and reliability are important. I believe art is the perfect medium for learning more about robotics. Just as a painter needs have very detailed knowledge about brush and paint types to make their art, so too must a robot artist develop a very detailed of their robots to succesfully make their art.
