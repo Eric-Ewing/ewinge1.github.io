@@ -21,7 +21,7 @@ The syllabus for the class can be found [here](./files/art_skies_syllabus.pdf).
 
 Labs and Starter code can be found [here](https://github.com/ewinge1/TakingArtToTheSkies).
 
-Some of the final projects can be found on this (youtube playlist)[https://youtube.com/playlist?list=PLMeIXpeMBnRzbd7sbUBqIEipGuuS6xjX0&feature=shared]. (Only projects without identifiable information of minors are available to the public.)
+Some of the final projects can be found on this [youtube playlist](https://youtube.com/playlist?list=PLMeIXpeMBnRzbd7sbUBqIEipGuuS6xjX0&feature=shared). (Only projects without identifiable information of minors are available to the public.)
 
 SHINE: Summer Highschool Intensive in Next-generation Engineering, Mentor
 =================================================================
