@@ -12,27 +12,38 @@
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
+            background-color: #f9f9f9;
         }
         header {
             text-align: center;
             padding: 20px 0;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         nav {
-            background-color: #f4f4f4;
+            background-color: #2c3e50;
             padding: 10px;
             position: sticky;
             top: 0;
             text-align: center;
+            border-radius: 8px;
+            margin: 20px 0;
         }
         nav a {
             margin: 0 10px;
             text-decoration: none;
-            color: #333;
+            color: #fff;
+            font-weight: bold;
         }
         section {
             margin: 40px 0;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
-        h1, h2 {
+        h1, h2, h3 {
             color: #2c3e50;
         }
         .profile-images {
@@ -45,15 +56,35 @@
             width: 200px;
             height: auto;
             border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         .cv-link {
             display: inline-block;
             margin-top: 10px;
-            padding: 5px 10px;
+            padding: 10px 20px;
             background-color: #2c3e50;
             color: white;
             text-decoration: none;
             border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .cv-link:hover {
+            background-color: #34495e;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            color: #777;
         }
     </style>
 </head>
@@ -116,16 +147,32 @@
 
     <section id="research">
         <h2>Research</h2>
-        <p>MAPF</p>
-        <p>Robart</p>
+
+        <p>A full up to date list of publications is available on my google scholar page.</p>
+        
+        <h3>Multi-Agent Path Finding (MAPF)</h3>
+        <p>My research advances the field of Multi-Agent Pathfinding (MAPF) by combining learning and optimization techniques.
+        I've studied the empirical hardness of MAPF instances and what properties of instances are likely to make them harder to solve.
+        I've worked on algorithm selection and other portfolio techniques within MAPF to advance the state-of-the-art in MAPF algorithms.</p>
+
+        <h3>Robart</h3>
+        <p>Robart is an online block programming environment for Crazyswarm2. The goal is to make programming multi-robot systems accessible to all.
+            Robart is quick to learn, requires no additional software on student computers, and can program deeply complex behaviors. 
+            The base trajectories that are available are to move in a straight line or a circle. Additional modifier blocks can be used to rotate, skew, stretch, or add multiple trajectories together.
+            With these commands we can create a wide variety of interesting behaviors.</p>
+        <p>The webapp is currently hosted <a href="https://act.usc.edu/MultiRobotArt/">here</a>.</p>
     </section>
 
     <section id="media">
         <h2>Media and Outreach</h2>
-        <p>I've been featured in <a href="https://www.brown.edu/news/2024-02-15/eric-ewing">media</a> for my work creating CSCI 1952z.</p>
-        <p>I've done media with Vicon about the Valkyrie camera system (links coming soon).</p>
-        <p>I gave an invited talk at <a href="https://www.washingtoninformer.com/amazon-drone-academy-howard-university/">Howard University's Drone Academy</a> on drone art.</p>
-        <p>I've led many outreach programs at Brown University in the ACT Lab, from <a href="https://www.brown.edu/news/2024-08-19/girls-get-math-2024">Girls Get Math</a> to <a href="https://brown.learningu.org/">Brown's Splash</a> program.</p>
+        <ul>
+            <li>I've been featured in <a href="https://www.brown.edu/news/2024-02-15/eric-ewing">media</a> for my work creating CSCI 1952z.</li>
+            <li>I've done media with Vicon about the Valkyrie camera system (links coming soon).</li>
+            <li>A <a href="https://youtu.be/NLoQcquP-DE">video</a> of ours was presented at the Drones@SXSW panel at South by South West</li>
+            <li>I gave an invited talk at <a href="https://www.washingtoninformer.com/amazon-drone-academy-howard-university/">Howard University's Drone Academy</a> on drone art.</li>
+            <li>I've led many outreach programs at Brown University in the ACT Lab, from <a href="https://www.brown.edu/news/2024-08-19/girls-get-math-2024">Girls Get Math</a> to <a href="https://brown.learningu.org/">Brown's Splash</a> program.</li>
+            <li>I have a <a href="https://www.youtube.com/playlist?list=PLMeIXpeMBnRzbH7WRr_U5KV0L4Btkqol-">YouTube channel</a> where I post crazyswarm videos periodically</li>
+        </ul>
     </section>
 
     <footer>
